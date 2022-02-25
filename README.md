@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johanna-se
-- 👀 I’m interested in learning
+- 👀 I’m interested in developing my skills
 - 🌱 I’m currently learning Java, HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
