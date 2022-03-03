@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johanna-se
 - 👀 I’m interested in developing my skills
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java at Luleå university course D0017D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
