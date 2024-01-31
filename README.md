@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johanna-se
 - 👀 I’m interested in developing my skills
-- 🌱 I’m currently learning Java at Luleå university course "D0018D Object oriented programming in Java" as well as "M0001D, Game Design"
+- 🌱 I’m currently studying Computer and Systems Sciences at Stockholm university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
